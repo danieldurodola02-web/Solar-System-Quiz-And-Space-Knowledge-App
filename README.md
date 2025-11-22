@@ -33,7 +33,7 @@ The quiz system is built using:
 This is the first version though,and I will keep improving the structure overtime.
 
 # How to Run
-	1.	Make sure Python 3 is installed on your system.
+ 1. Make sure Python 3 is installed on your system.
 	2.	Download the file main.py
 	3.	Open your terminal or command prompt and run:
  4.	Choose:
@@ -51,21 +51,23 @@ This is the first version though,and I will keep improving the structure overtim
 	- Correct/incorrect feedback
 	- A simple results breakdown
  - For ask-the-universe mode,you will see:
- - predefined list of questions 
- - Answer to your choice of question
+ . predefined list of questions 
+ . Answer to your choice of question
 
 # Why I Built This
 
 I created this project to practice:
-	- Writing clean and structured Python code
-	- Storing and managing data
-	- Building small but meaningful applications
-	- Improving at text-based user interfaces
-	- Developing real projects I can showcase on GitHub
- . I believe it is fun and educational 
+	•	Writing clean and structured Python code
+	•	Handling user input
+	•	Building simple software applications
+	•	Improving my problem-solving and programming structure
+	•	Creating real projects to showcase my growth,and i believe it is educational,engaging,and fun.
+
+I will continue expanding this app with new levels and the “Ask the Universe” feature overtime.
 
 # Author
-Durodola Daniel
+Durodola Daniel 
+
 
  
 
