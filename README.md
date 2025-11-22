@@ -4,10 +4,10 @@ This project is a simple quiz application that tests users on their knowledge of
 
 I started this project to strengthen my Python skills, especially in:
 Working with lists and dictionaries
- -Handling user input
- -Building a clean program structure
-Designing simple text-based interfaces
--Using modular functions
+	- Handling user input
+ - Building a clean program structure
+ - Designing simple text-based interfaces
+ - Using modular functions
 
 This is a work-in-progress project, and I’ll keep updating it as I learn more.
 
