@@ -34,9 +34,9 @@ This is the first version though,and I will keep improving the structure overtim
 
 # How to Run
  1. Make sure Python 3 is installed on your system.
-	2.	Download the file main.py
-	3.	Open your terminal or command prompt and run:
- 4.	Choose:
+	2. Download the file main.py
+	3. Open your terminal or command prompt and run:
+ 4. Choose:
  - Quiz mode
  - Difficulty level
  - Number of questions
