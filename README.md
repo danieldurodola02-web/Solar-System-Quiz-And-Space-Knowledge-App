@@ -32,7 +32,7 @@ This is the first version, and I will keep improving the structure over time.
 
 ## How to Run  
 1. Make sure **Python 3** is installed on your system.  
-2. Download the file `main.py`.  
+2. Download the file `Solar System Quiz & Space Knowledge App.py`. 
 3. Open your terminal or command prompt and run:  
 4. Choose your preferred option:  
    - Quiz mode  
